@@ -34,7 +34,7 @@
 		"Heal Numbers"										"0 255 0 255"
 		"Last Damage Done"									"255 255 0 255"
 
-		"Menu Labels"										"255 0 127 255"
+		"Menu Labels"										"123 77 157 255"
 		"Class Selection"									"123 77 157 255"
 
 		"m0reBlue"											"0 120 201 255"

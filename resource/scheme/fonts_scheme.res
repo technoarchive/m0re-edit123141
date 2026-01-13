@@ -240,6 +240,7 @@
 				"name"										"Coolvetica"
 				"tall"										"11"
 				"antialias"									"1"
+				"dropshadow"								"1"
 			}
 		}
 		"Coolvetica13"
@@ -249,6 +250,7 @@
 				"name"										"Coolvetica"
 				"tall"										"13"
 				"antialias"									"1"
+				"dropshadow"								"1"
 			}
 		}
 		"Coolvetica15"
@@ -258,6 +260,7 @@
 				"name"										"Coolvetica"
 				"tall"										"15"
 				"antialias"									"1"
+				"dropshadow"								"1"
 			}
 		}
 		"VerdanaMenu"										//Create Server Button
@@ -267,6 +270,7 @@
 				"name"										"Verdana"
 				"tall"										"18"
 				"antialias"									"1"
+				"dropshadow"								"1"
 			}
 		}
 		"Symbols16"
