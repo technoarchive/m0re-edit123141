@@ -1,7 +1,7 @@
-![logo](https://i.imgur.com/HVyxIC3.png)
+# m0re edit that i dont feel like naming
 
-<div align="center">
+made because someone asked for the hud in [this](https://www.youtube.com/watch?v=5kd1hYS2zcQ) video in 20 mins
 
-This branch features a "stripped down" version of m0rehud, this version doesn't include any customizations or extra edits, this is effectively a 2011 m0rehud updated to work with the current TF2 updates. This version won't be updated as often as I intend to update it only for bug fixes and TF2 updates (not many nowadays uh)
+pic below
 
-</div>
+![pic](https://i.imgur.com/sLWPYMw.png)

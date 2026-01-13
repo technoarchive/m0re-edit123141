@@ -26,7 +26,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"ChargeLabel"
 		"xpos"										"cs-0.5"
-		"ypos"										"c36"
+		"ypos"										"c28"
 		"zpos"										"2"
 		"wide"										"100"
 		"tall"										"20"
@@ -57,7 +57,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont58"
+		"font"										"m0refont72"
 		"fgcolor"									"Ubercharge"
 
 		"pin_to_sibling"							"UberAnchor"
@@ -78,7 +78,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont58"
+		"font"										"m0refont72"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"ChargeLabelBig"
@@ -97,7 +97,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont58"
+		"font"										"m0refont72"
 		"fgcolor"									"Extra Shadow"
 		"alpha"										"0"
 
